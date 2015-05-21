@@ -37,10 +37,6 @@ body {
   text-align: center;
 }
 
-.social > li {
-  display: inline-block;
-}
-
 .introduction-section,
 .questions-section,
 .content-footer {
@@ -64,4 +60,9 @@ body {
   font-family: "Gentium Book Basic", Georgia, serif;
   font-size: 1.2em;
   font-weight: bold;
+}
+
+.content-footer .icons > li {
+  padding: 0.5em 1.6em;
+  display: inline-block;
 }
