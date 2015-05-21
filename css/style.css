@@ -62,7 +62,27 @@ body {
   font-weight: bold;
 }
 
+.content-footer {
+  padding-bottom: 5em;
+}
+
+.content-footer .icons {
+  padding-left: 0;
+}
+
 .content-footer .icons > li {
   padding: 0.5em 1.6em;
   display: inline-block;
+}
+
+.github > a{
+  color: black;
+}
+
+.linkedin > a {
+  color: #1985BD;
+}
+
+.facebook > a {
+  color: #3b5998;
 }
