@@ -86,3 +86,18 @@ body {
 .facebook > a {
   color: #3b5998;
 }
+
+@media only screen and (max-width: 600px) {
+  .masthead {
+    padding: 3em 0;
+  }
+  .masthead-heading {
+    font-size: 3em;
+  }
+
+  .introduction-section,
+  .questions-section,
+  .content-footer {
+    max-width: 25em;
+  }
+}
