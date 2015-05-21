@@ -98,6 +98,6 @@ body {
   .introduction-section,
   .questions-section,
   .content-footer {
-    max-width: 25em;
+    max-width: 22em;
   }
 }
